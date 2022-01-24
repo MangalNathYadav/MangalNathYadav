@@ -10,6 +10,7 @@
 
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Pentration Testing
+<br>[Web Developer] <br> [Programmar] <br> [Hacker] <br> [Coder]
 - 📫 How to reach me <br>
      Instagram https://www.instagram.com/cyber.security__kanpur__/
      
