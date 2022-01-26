@@ -34,9 +34,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<p align="center" width="90%">
-<a target="_blank" href="https://github.com/MangalNathYadav"><img title="MG Hacker" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangalNathYadav&theme=midnight-purple"></a>
-</p>
 
 
 
