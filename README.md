@@ -39,10 +39,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MangalNathYadav&theme=dark" /> <br> 
-<img  src="https://github-profile-trophy.vercel.app/?username=MangalNathYadav&theme=midnight-purple&row=2&column=4" />
+
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangalNathYadav&langs_count=10&theme=midnight-purple" > <br/>
-<img  src="https://activity-graph.herokuapp.com/graph?username=MangalNathYadav&theme=midnight-purple&hide_title=true&hide_border=true" />
+
 
 
 
