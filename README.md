@@ -33,6 +33,24 @@ You can click the Preview link to take a look at your changes.
 <a target="_blank" href="https://github.com/MangalNathYadav/Insta-Phishing-Page"><img title="Insta Phishing" src="https://github-readme-stats.vercel.app/api/pin/?username=MangalNathYadav&repo=Insta-Phishing-Page&theme=midnight-purple"></a>
 </p>
 
+## 🏆 *Github Status*
+
+<div align="center">
+
+<img  src="https://visitor-badge.laobi.icu/badge?page_id=MangalNathYadav.MangalNathYadav" /> <br>
+ 
+<img  src="https://github-readme-stats.vercel.app/api?username=MangalNathYadav&show_icons=true&hide_border=true&theme=midnight-pruple" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=MangalNathYadav&theme=midnightpurple" /> <br> 
+<img  src="https://github-profile-trophy.vercel.app/?username=MangalNathYadav&theme=midnight-purple&row=2&column=4" />
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangalNathYadav&layout=compact&langs_count=10&&theme=midnight-purple" > <br/>
+<img  src="https://activity-graph.herokuapp.com/graph?username=MangalNathYadav&theme=midnight-purple&hide_title=true&hide_border=true" />
+
+<script src="https://tryhackme.com/badge/443096"></script>
+
+
+
+</div>
 
 
 
