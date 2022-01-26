@@ -22,7 +22,8 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><a href="https://github.com/MangalNathYadav"><img title="MG Hacker" src="https://github-readme-stats.vercel.app/api?username=MangalNathYadav&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
-<p align="center">
-<a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/MangalNathYadav-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/MangalNathYadav"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
-</p>
+
+
+
+
+
