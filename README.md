@@ -13,11 +13,18 @@
 <br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
 - 📫 How to reach me <br>
      Instagram https://www.instagram.com/cyber.security__kanpur__/
-  <img src="https://tryhackme-badges.s3.amazonaws.com/MgHacker.png" alt="TryHackMe">   
+ 
 <!---
 MangalNathYadav/MangalNathYadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+#**
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangalNathYadav&langs_count=10&theme=midnight-purple" > <br/>
+
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=MangalNathYadav&theme=dark" /> <br> 
+
+
 
 <p width="90%"align="center"><a target="_blank" href="https://github.com/MangalNathYadav"><img title="MG Hacker" src="https://github-readme-stats.vercel.app/api?username=MangalNathYadav&show_icons=true&include_all_commits=true&theme=midnight-purple&cache_seconds=3200"></a>
 </p>
@@ -33,22 +40,7 @@ You can click the Preview link to take a look at your changes.
 <a target="_blank" href="https://github.com/MangalNathYadav/Insta-Phishing-Page"><img title="Insta Phishing" src="https://github-readme-stats.vercel.app/api/pin/?username=MangalNathYadav&repo=Insta-Phishing-Page&theme=midnight-purple"></a>
 </p>
 
-## 🏆 *Github Status*
-
-<div align="center">
-
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=MangalNathYadav&theme=dark" /> <br> 
-
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangalNathYadav&langs_count=10&theme=midnight-purple" > <br/>
-
-
-
-
-
-</div>
-
+#**
 
 
 
