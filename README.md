@@ -29,12 +29,12 @@ You can click the Preview link to take a look at your changes.
 <a target="_blank" href="https://chat.whatsapp.com/HKYwHtW1lpoLFVJRYLY70s"><img title="Whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 <a target="_blank" href="https://www.instagram.com/cyber.security__kanpur__/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 <p align="center">
-<a target="_blank" href="https://github.com/MangalNathYadav/Propose-me"><img title="Propose Me" src="https://github-readme-stats.vercel.app/api/pin/?username=MangalNathYadav&repo=Propose-me&theme=radical"></a>
-<a target="_blank" href="https://github.com/MangalNathYadav/Insta-Phishing-Page"><img title="Insta Phishing" src="https://github-readme-stats.vercel.app/api/pin/?username=MangalNathYadav&repo=Insta-Phishing-Page&theme=highcontrast"></a>
+<a target="_blank" href="https://github.com/MangalNathYadav/Propose-me"><img title="Propose Me" src="https://github-readme-stats.vercel.app/api/pin/?username=MangalNathYadav&repo=Propose-me&theme=midnight-purple"></a>
+<a target="_blank" href="https://github.com/MangalNathYadav/Insta-Phishing-Page"><img title="Insta Phishing" src="https://github-readme-stats.vercel.app/api/pin/?username=MangalNathYadav&repo=Insta-Phishing-Page&theme=midnight-purple"></a>
 </p>
 
 <p align="center">
-<a target="_blank" href="https://github.com/MangalNathYadav"><img title="MG Hacker" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangalNathYadav&theme=dark&show_icons=true)"></a>
+<a target="_blank" href="https://github.com/MangalNathYadav"><img title="MG Hacker" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangalNathYadav&theme=midnight-purple"></a>
 </p>
 
 
