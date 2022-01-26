@@ -19,7 +19,7 @@ MangalNathYadav/MangalNathYadav is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangalNathYadav&langs_count=10&theme=midnight-purple" > <br/>
+<!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangalNathYadav&langs_count=10&theme=midnight-purple" > <br/> --->
 
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MangalNathYadav&theme=dark" /> <br> 
