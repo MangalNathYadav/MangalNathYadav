@@ -33,9 +33,13 @@ You can click the Preview link to take a look at your changes.
 <a target="_blank" href="https://github.com/MangalNathYadav/Insta-Phishing-Page"><img title="Insta Phishing" src="https://github-readme-stats.vercel.app/api/pin/?username=MangalNathYadav&repo=Insta-Phishing-Page&theme=midnight-purple"></a>
 </p>
 
-<p align="center">
-<a target="_blank" href="https://github.com/MangalNathYadav"><img title="MG Hacker" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangalNathYadav&theme=midnight-purple"></a>
+<p align ="center"
+<p align="right"><a target="_blank" href="https://github.com/MangalNathYadav"><img title="MG Hacker" src="https://github-readme-stats.vercel.app/api?username=MangalNathYadav&show_icons=true&include_all_commits=true&theme=midnight-purple&cache_seconds=3200"></a>
 </p>
+
+<p align="left">
+<a target="_blank" href="https://github.com/MangalNathYadav"><img title="MG Hacker" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangalNathYadav&theme=midnight-purple"></a>
+</p></p>
 
 
 
