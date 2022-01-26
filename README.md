@@ -13,7 +13,7 @@
 <br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
 - 📫 How to reach me <br>
      Instagram https://www.instagram.com/cyber.security__kanpur__/
-     
+  <img src="https://tryhackme-badges.s3.amazonaws.com/MgHacker.png" alt="TryHackMe">   
 <!---
 MangalNathYadav/MangalNathYadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -37,16 +37,14 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
->
- 
-<img  src="https://github-readme-stats.vercel.app/api?username=MangalNathYadav&show_icons=true&hide_border=true&theme=midnight-purple" />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=MangalNathYadav&theme=midnightpurple" /> <br> 
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=MangalNathYadav&theme=dark" /> <br> 
 <img  src="https://github-profile-trophy.vercel.app/?username=MangalNathYadav&theme=midnight-purple&row=2&column=4" />
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangalNathYadav&langs_count=10&theme=midnight-purple" > <br/>
 <img  src="https://activity-graph.herokuapp.com/graph?username=MangalNathYadav&theme=midnight-purple&hide_title=true&hide_border=true" />
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/MgHacker.png" alt="TryHackMe">
+
 
 
 </div>
