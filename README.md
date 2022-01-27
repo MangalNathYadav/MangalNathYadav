@@ -7,13 +7,13 @@
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](http://hack-devs.netlify.app)
 
 ---
-
+<pre style="color:purple;">
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Pentration Testing
 <br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
 - 📫 How to reach me <br>
      Instagram https://www.instagram.com/cyber.security__kanpur__/
- 
+ </pre>
 <!---
 MangalNathYadav/MangalNathYadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
