@@ -24,8 +24,12 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="center" ><a target="_blank" href="https://github.com/MangalNathYadav"><img title="MG Hacker" src="https://github-readme-stats.vercel.app/api?username=MangalNathYadav&show_icons=true&include_all_commits=true&theme=midnight-purple&cache_seconds=3200"></a>
+<p><a target="_blank" href="https://github.com/MangalNathYadav"><img title="MG Hacker" src="https://github-readme-stats.vercel.app/api?username=MangalNathYadav&show_icons=true&include_all_commits=true&theme=midnight-purple&cache_seconds=3200"></a>
+  
+  <img width="40%"   src="https://github-readme-streak-stats.herokuapp.com/?user=MangalNathYadav&theme=nightowl&hide_border=true&fire=DD2727" alt="MG_Hacker" />
+ 
 </p>
+
 
 
 
