@@ -21,7 +21,12 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangalNathYadav&langs_count=10&theme=midnight-purple" > <br/> --->
 
-
+<p align="center"
+    
+<a target="_blank" href="https://t.me/hack_devs"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a target="_blank" href="https://chat.whatsapp.com/HKYwHtW1lpoLFVJRYLY70s"><img title="Whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a target="_blank" href="https://www.instagram.com/cyber.security__kanpur__/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+</p>
 
 
 <p><a target="_blank" href="https://github.com/MangalNathYadav">
@@ -30,16 +35,6 @@ You can click the Preview link to take a look at your changes.
   <img width="48%"  height="300px"  align="right" src="http://github-readme-streak-stats.herokuapp.com?user=MangalNathYadav&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&fire=FFFFFF&sideNums=DDDDDD" alt="MG_Hacker" />
  
 </p>
-
-
-
-
-<p align="center"
-    
-<a target="_blank" href="https://t.me/hack_devs"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a target="_blank" href="https://chat.whatsapp.com/HKYwHtW1lpoLFVJRYLY70s"><img title="Whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
-<a target="_blank" href="https://www.instagram.com/cyber.security__kanpur__/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
-
 
 <p align="center">
 <a target="_blank" href="https://github.com/MangalNathYadav/Propose-me"><img title="Propose Me" src="https://github-readme-stats.vercel.app/api/pin/?username=MangalNathYadav&repo=Propose-me&theme=midnight-purple"></a>
