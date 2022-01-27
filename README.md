@@ -25,9 +25,9 @@ You can click the Preview link to take a look at your changes.
 
 
 <p><a target="_blank" href="https://github.com/MangalNathYadav">
-     <img title="MG Hacker" height="300px" width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=MangalNathYadav&show_icons=true&include_all_commits=true&theme=midnight-purple&cache_seconds=3200"></a>
+     <img title="MG Hacker" height="400px" width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=MangalNathYadav&show_icons=true&include_all_commits=true&theme=midnight-purple&cache_seconds=3200"></a>
   
-  <img width="45%"  height="300px"  align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MangalNathYadav&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&fire=FFFFFF&sideNums=DDDDDD" alt="MG_Hacker" />
+  <img width="48%"  height="400px"  align="right" src="http://github-readme-streak-stats.herokuapp.com?user=MangalNathYadav&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&fire=FFFFFF&sideNums=DDDDDD" alt="MG_Hacker" />
  
 </p>
 
