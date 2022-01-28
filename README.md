@@ -9,7 +9,7 @@
 ---
 <pre>
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Pentration Testing
+- 🌱 I’m currently learning Penetration Testing
 <br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
 - 📫 How to reach me <br>
  Instagram cyber.security__kanpur__
