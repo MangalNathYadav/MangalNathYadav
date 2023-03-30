@@ -1,6 +1,6 @@
 
 <body bgcolor="black">
-# **Hi there, I am** [MG Hacker](http://hack-devs.netlify.app) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# **Hi there, I am** [MG Hacker](http://hackdevs.netlify.app) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img src="https://tryhackme-badges.s3.amazonaws.com/MgHacker.png" alt="TryHackMe">
 
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/MangalNathYadav)
