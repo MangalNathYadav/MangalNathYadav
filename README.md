@@ -1,7 +1,7 @@
 
 <body bgcolor="black">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome-There!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
 </p>
  
 [<img src="https://user-images.githubusercontent.com/68454356/233129907-96fb4b36-fb1d-4feb-84d5-2d7d4f7c0207.png">](https://github.com/MangalNathYadav)
