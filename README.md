@@ -1,6 +1,8 @@
 
 <body bgcolor="black">
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
  
 [<img src="https://user-images.githubusercontent.com/68454356/233129907-96fb4b36-fb1d-4feb-84d5-2d7d4f7c0207.png">](https://github.com/MangalNathYadav)
  
@@ -54,7 +56,6 @@ You can click the Preview link to take a look at your changes.
 <br>
  
 ## &#x1f4c8; GitHub Stats
-
 <a target="_blank" href="https://github.com/MangalNathYadav">
      <img title="MG Hacker" height="300px" width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=MangalNathYadav&show_icons=true&include_all_commits=true&theme=midnight-purple&cache_seconds=3200"></a>
 
