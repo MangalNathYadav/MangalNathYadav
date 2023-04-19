@@ -1,5 +1,6 @@
 
-<body bgcolor="black">
+<body bgcolor="black">![Untitled design](https://user-images.githubusercontent.com/68454356/233129907-96fb4b36-fb1d-4feb-84d5-2d7d4f7c0207.png)<br>
+
 # **Hi there, I am** [MG Hacker](http://hackdevs.netlify.app) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img src="https://tryhackme-badges.s3.amazonaws.com/MgHacker.png" alt="TryHackMe">
 
