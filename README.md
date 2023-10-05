@@ -22,6 +22,10 @@
  Instagram @cyber.security__kanpur__
  @optimistic_thunder
 </pre>
+
+
+[![holopin.io/@mangalnathyadav](https://holopin.me/mangalnathyadav)](https://holopin.io/@mangalnathyadav)
+ 
  
  ## 💼 Skills
  
@@ -76,9 +80,9 @@ You can click the Preview link to take a look at your changes.
 
  
 </p>
- 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&length=150&section=footer"/>
+
+<p align="center" >
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&length=170&section=footer"/>
 </p>
 
 
