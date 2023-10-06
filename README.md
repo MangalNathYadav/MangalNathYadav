@@ -6,10 +6,9 @@
  
 <br>
 
-[![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=MangalNathYadav.visitor-badge)](mghacker.netlify.app)
 # **Aka** [MG Hacker](http://hackdevs.netlify.app) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-[<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/MangalNathYadav)     [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mangalnath123k@gmail.com )     [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mangal-nath-yadav-4b6156214)  [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](http://hackdevs.netlify.app)     [<img src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp">](https://chat.whatsapp.com/JN2wsqpjsyz8gMcQXCpfQm)  [<img src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram">](https://www.instagram.com/cyber.security__kanpur__/)      [<img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram">](https://t.me/hack_devs)   
+[<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/MangalNathYadav)     [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mangalnath123k@gmail.com )     [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mangal-nath-yadav-4b6156214)  [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](http://hackdevs.netlify.app)     [<img src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp">](https://chat.whatsapp.com/JN2wsqpjsyz8gMcQXCpfQm)  [<img src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram">](https://www.instagram.com/cyber.security__kanpur__/)      [<img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram">](https://t.me/hack_devs)       ![Visitor Count](https://profile-counter.glitch.me/MangalNathYadav/count.svg)
 
  
 
@@ -66,6 +65,8 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MangalNathYadav&theme=midnight-pruple&no-frame=true&row=1&&margin-w=10&no-bg=false"></img>
 <br> 
 
 ## 📌 Pinned Repositories
