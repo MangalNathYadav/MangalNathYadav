@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MangalNathYadav&theme=midnight-pruple&no-frame=true&row=1&&margin-w=10&no-bg=false"></img>
+<img src="https://github-profile-trophy.vercel.app/?username=MangalNathYadav&theme=midnight-pruple&no-frame=true&row=1&&margin-w=20&no-bg=false"></img>
 <br> 
 
 ## 📌 Pinned Repositories
