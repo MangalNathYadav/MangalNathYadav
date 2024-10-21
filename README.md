@@ -25,7 +25,7 @@
 
 [![holopin.io/@mangalnathyadav](https://holopin.me/mangalnathyadav)](https://holopin.io/@mangalnathyadav)
  
- 
+ <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/dl6ok0qiTRuMH-vLdOXKog?identity__email=mangalnath123k%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/dl6ok0qiTRuMH-vLdOXKog/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">DEADFACE CTF 2024 Competitor</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Oct 19, 2024</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> mghacker</span></p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
  ## 💼 Skills
  
  
