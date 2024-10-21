@@ -24,8 +24,27 @@
 
 
 [![holopin.io/@mangalnathyadav](https://holopin.me/mangalnathyadav)](https://holopin.io/@mangalnathyadav)
+<table>
+  <tr>
+    <td>
+      <a href="https://api.badgr.io/public/assertions/dl6ok0qiTRuMH-vLdOXKog?identity__email=mangalnath123k%40gmail.com">
+        <img width="200px" height="200px" src="Cyber Hacktics - DEADFACE CTF 2024 Competitor - 2024-10-19.png">
+      </a>
+    </td>
+    <td>
+      <p style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; font-size: 16px; font-weight: 600; margin: 0; text-align: left;">
+        DEADFACE CTF 2024 Competitor
+      </p>
+      <p style="font-size: 12px; margin: 0; text-align: left;">
+        <strong>Awarded:</strong> Oct 19, 2024
+      </p>
+      <p style="font-size: 12px; margin: 0; text-align: left;">
+        <strong>Awarded To:</strong> mghacker
+      </p>
+    </td>
+  </tr>
+</table>
 
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/dl6ok0qiTRuMH-vLdOXKog?identity__email=mangalnath123k%40gmail.com"><img width="120px" height="120px" src="Cyber Hacktics - DEADFACE CTF 2024 Competitor - 2024-10-19.png"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">DEADFACE CTF 2024 Competitor</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Oct 19, 2024</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> mghacker</span></p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2Fdl6ok0qiTRuMH-vLdOXKog%3Fidentity__email%3Dmangalnath123k%2540gmail.com&amp;identity__email=mangalnath123k%40gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
  ## 💼 Skills
  
  
