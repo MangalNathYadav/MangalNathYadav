@@ -25,8 +25,7 @@
 
 [![holopin.io/@mangalnathyadav](https://holopin.me/mangalnathyadav)](https://holopin.io/@mangalnathyadav)
 
-[![DEADFACE CTF 2024 Competitor](https://api.badgr.io/public/assertions/dl6ok0qiTRuMH-vLdOXKog/image)](https://api.badgr.io/public/assertions/dl6ok0qiTRuMH-vLdOXKog?identity__email=mangalnath123k%40gmail.com)
-
+<iframe src="https://api.badgr.io/public/assertions/dl6ok0qiTRuMH-vLdOXKog?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=mangalnath123k%40gmail.com" title="Badge: DEADFACE CTF 2024 Competitor" style="width: 330px; height: 191px; border: 0px;"></iframe>
  ## 💼 Skills
  
  
