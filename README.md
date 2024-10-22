@@ -29,17 +29,17 @@
 <td>
     <td>
       <a href="https://api.badgr.io/public/assertions/dl6ok0qiTRuMH-vLdOXKog?identity__email=mangalnath123k%40gmail.com">
-        <img width="180px" height="180px" src="Cyber Hacktics - DEADFACE CTF 2024 Competitor - 2024-10-19.png">
+        <img width="160px" height="160px" src="Cyber Hacktics - DEADFACE CTF 2024 Competitor - 2024-10-19.png">
       </a>
     </td>
     <td>
-      <p style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; font-size: 16px; font-weight: 600; margin: 0; text-align: left;">
+      <p style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; font-size: 15px; font-weight: 600; margin: 0; text-align: left;">
         DEADFACE CTF 2024 Competitor
       </p>
-      <p style="font-size: 12px; margin: 0; text-align: left;">
+      <p style="font-size: 8px; margin: 0; text-align: left;">
         <strong>Awarded:</strong> Oct 19, 2024
       </p>
-      <p style="font-size: 12px; margin: 0; text-align: left;">
+      <p style="font-size: 8px; margin: 0; text-align: left;">
         <strong>Awarded To:</strong> mghacker
       </p>
     </td>
@@ -48,17 +48,17 @@
 <td>
     <td>
       <a href="https://api.badgr.io/public/assertions/dl6ok0qiTRuMH-vLdOXKog?identity__email=mangalnath123k%40gmail.com">
-        <img width="180px" height="180px" src="Cyber Hacktics - DEADFACE CTF 2024 Write-Up - 2024-10-19.png">
+        <img width="160px" height="160px" src="Cyber Hacktics - DEADFACE CTF 2024 Write-Up - 2024-10-19.png">
       </a>
     </td>
     <td>
-      <p style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; font-size: 16px; font-weight: 600; margin: 0; text-align: left;">
+      <p style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; font-size: 15px; font-weight: 600; margin: 0; text-align: left;">
         DEADFACE CTF 2024 Write-Up
       </p>
-      <p style="font-size: 12px; margin: 0; text-align: left;">
+      <p style="font-size: 8px; margin: 0; text-align: left;">
         <strong>Awarded:</strong> Oct 19, 2024
       </p>
-      <p style="font-size: 12px; margin: 0; text-align: left;">
+      <p style="font-size: 8px; margin: 0; text-align: left;">
         <strong>Awarded To:</strong> mghacker
       </p>
     </td>
