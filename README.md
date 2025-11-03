@@ -73,7 +73,7 @@
 
 <br>
 
-<!-- 🧠 Languages -->
+🧠 Languages
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=280137)
@@ -83,7 +83,7 @@
 
 <br>
 
-<!-- 🎨 Styling -->
+🎨 Styling
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=280137)
@@ -91,7 +91,7 @@
 
 <br>
 
-<!-- ⚙️ Frameworks & Libraries -->
+⚙️ Frameworks & Libraries
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=280137)
@@ -101,7 +101,7 @@
 
 <br>
 
-<!-- 🧰 Tools -->
+🧰 Tools
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=280137)
@@ -112,7 +112,7 @@
 
 <br>
 
-<!-- 🧩 Systems, DevOps & Hardware -->
+🧩 Systems, DevOps & Hardware
 ![](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=Linux&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Hardware-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Field-Cybersecurity-informational?style=flat&logo=ProtonVPN&logoColor=white&color=280137)
