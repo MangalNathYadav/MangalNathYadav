@@ -8,72 +8,72 @@
 
 # **Aka** [MG Hacker](http://hackdevs.netlify.app) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-[<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/MangalNathYadav)     [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mangalnath123k@gmail.com )     [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/optmistic--thunder)  [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](http://hackdevs.netlify.app)     [<img src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp">](https://chat.whatsapp.com/JN2wsqpjsyz8gMcQXCpfQm)  [<img src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram">](https://www.instagram.com/cyber.security__kanpur__/)      [<img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram">](https://t.me/hack_devs)       ![Visitor Count](https://profile-counter.glitch.me/MangalNathYadav/count.svg)
+[<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/MangalNathYadav)     [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mangalnath123k@gmail.com )     [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/optmistic--thunder)  [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](http://hackdevs.netlify.app)     [<img src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp">](https://chat.whatsapp.com/JN2wsqpjsyz8gMcQXCpfQm)  [<img src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram">](https://www.instagram.com/optimistic__thunder/)      [<img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram">](https://t.me/hack_devs)   
 
  
 
 ---
 <pre align="left">
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Penetration Testing
-<br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
-- 📫 How to reach me <br>
- Instagram @cyber.security__kanpur__
- @optimistic_thunder
+
+⚡ About Me ⚡  
+👀 Interests → Cybersecurity · AI · Full Stack Development  
+🌱 Currently → Building scalable web apps | Engineering prompts | Exploring ethical hacking  
+💻 Roles → Full Stack Developer · Vibe Coder · Hacker · Prompt Engineer  
+📫 Reach Me →  
+  ├── Email: <a href="mailto:mangalnath123k@gmail.com">mangalnath123k@gmail.com</a>  
+  └── Instagram: [@optimistic_thunder](https://instagram.com/optimistic_thunder)
+
 </pre>
 
 
 [![holopin.io/@mangalnathyadav](https://holopin.me/mangalnathyadav)](https://holopin.io/@mangalnathyadav)
-<table>
+<h2 align="left">🏆 Cybersecurity Badges</h2>
+
+<table align="center">
   <tr>
-<td>
-    <td>
+    <!-- DEADFACE CTF 2024 Competitor -->
+    <td align="center" style="padding: 10px;">
       <a href="https://api.badgr.io/public/assertions/dl6ok0qiTRuMH-vLdOXKog?identity__email=mangalnath123k%40gmail.com">
-        <img width="160px" height="160px" src="Cyber Hacktics - DEADFACE CTF 2024 Competitor - 2024-10-19.png">
+        <img width="160px" height="160px" src="Cyber Hacktics - DEADFACE CTF 2024 Competitor - 2024-10-19.png" alt="DEADFACE CTF 2024 Competitor">
       </a>
-    </td>
-    <td>
-      <p style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; font-size: 15px; font-weight: 600; margin: 0; text-align: left;">
+      <p style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; font-size: 14px; font-weight: 600; margin: 4px 0 0;">
         DEADFACE CTF 2024 Competitor
       </p>
-      <p style="font-size: 8px; margin: 0; text-align: left;">
-        <strong>Awarded:</strong> Oct 19, 2024
-      </p>
-      <p style="font-size: 8px; margin: 0; text-align: left;">
-        <strong>Awarded To:</strong> mghacker
-      </p>
+      <p style="font-size: 10px; margin: 0;"><strong>Awarded:</strong> Oct 19, 2024</p>
+      <p style="font-size: 10px; margin: 0;"><strong>Awarded To:</strong> mghacker</p>
     </td>
-  </td>
-
-<td>
-    <td>
+   <!-- DEADFACE CTF 2024 Write-Up -->
+    <td align="center" style="padding: 10px;">
       <a href="https://api.badgr.io/public/assertions/dl6ok0qiTRuMH-vLdOXKog?identity__email=mangalnath123k%40gmail.com">
-        <img width="160px" height="160px" src="Cyber Hacktics - DEADFACE CTF 2024 Write-Up - 2024-10-19.png">
+        <img width="160px" height="160px" src="Cyber Hacktics - DEADFACE CTF 2024 Write-Up - 2024-10-19.png" alt="DEADFACE CTF 2024 Write-Up">
       </a>
-    </td>
-    <td>
-      <p style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; font-size: 15px; font-weight: 600; margin: 0; text-align: left;">
+      <p style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; font-size: 14px; font-weight: 600; margin: 4px 0 0;">
         DEADFACE CTF 2024 Write-Up
       </p>
-      <p style="font-size: 8px; margin: 0; text-align: left;">
-        <strong>Awarded:</strong> Oct 19, 2024
-      </p>
-      <p style="font-size: 8px; margin: 0; text-align: left;">
-        <strong>Awarded To:</strong> mghacker
-      </p>
+      <p style="font-size: 10px; margin: 0;"><strong>Awarded:</strong> Oct 19, 2024</p>
+      <p style="font-size: 10px; margin: 0;"><strong>Awarded To:</strong> mghacker</p>
     </td>
-  </td>
-<td></td>
-   
+   <!-- DEADFACE CTF 2025 Participant -->
+    <td align="center" style="padding: 10px;">
+      <a href="https://api.badgr.io/public/assertions/UNgFTuyNR2m_6w9yi6SAYQ">
+        <img width="160px" height="160px" src="https://api.badgr.io/public/assertions/UNgFTuyNR2m_6w9yi6SAYQ/image" alt="DEADFACE CTF 2025 Participant">
+      </a>
+      <p style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; font-size: 14px; font-weight: 600; margin: 4px 0 0;">
+        DEADFACE CTF 2025 Participant
+      </p>
+      <p style="font-size: 10px; margin: 0;"><strong>Awarded:</strong> Oct 28, 2025</p>
+      <p style="font-size: 10px; margin: 0;"><strong>Awarded To:</strong> mghacker</p>
+    </td>
   </tr>
 </table>
+
 ## 💼 Skills
 
 ![](https://tryhackme-badges.s3.amazonaws.com/MgHacker.png)
 
 <br>
 
-🧠 Languages
+🧠 Languages <br>
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=280137)
@@ -81,17 +81,16 @@
 ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=PHP&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU-Bash&logoColor=white&color=280137)
 
-<br>
 
-🎨 Styling
+
+🎨 Styling <br>
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=280137)
 
-<br>
 
-⚙️ Frameworks & Libraries
+⚙️ Frameworks & Libraries <br>
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=280137)
@@ -99,9 +98,8 @@
 ![](https://img.shields.io/badge/Backend-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=280137)
 
-<br>
 
-🧰 Tools
+🧰 Tools <br>
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=280137)
@@ -110,9 +108,8 @@
 ![](https://img.shields.io/badge/Tools-GitHub_Copilot-informational?style=flat&logo=GitHub-Copilot&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/AI-Prompt_Engineering-informational?style=flat&logo=OpenAI&logoColor=white&color=280137)
 
-<br>
 
-🧩 Systems, DevOps & Hardware
+🧩 Systems, DevOps & Hardware <br>
 ![](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=Linux&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Hardware-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=280137)
 ![](https://img.shields.io/badge/Field-Cybersecurity-informational?style=flat&logo=ProtonVPN&logoColor=white&color=280137)
