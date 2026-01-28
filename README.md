@@ -36,7 +36,7 @@
         DEADFACE CTF 2024 Competitor
       </p>
       <p style="font-size: 10px; margin: 0;"><strong>Awarded:</strong> Oct 19, 2024</p>
-      <p style="font-size: 10px; margin: 0;"><strong>Awarded To:</strong> shadowhacker</p>
+      <p style="font-size: 10px; margin: 0;"><strong>Awarded To:</strong> shadowXg</p>
     </td>
    <!-- DEADFACE CTF 2024 Write-Up -->
     <td align="center" style="padding: 10px;">
@@ -47,7 +47,7 @@
         DEADFACE CTF 2024 Write-Up
       </p>
       <p style="font-size: 10px; margin: 0;"><strong>Awarded:</strong> Oct 19, 2024</p>
-      <p style="font-size: 10px; margin: 0;"><strong>Awarded To:</strong> shadowhacker</p>
+      <p style="font-size: 10px; margin: 0;"><strong>Awarded To:</strong> shadowXg</p>
     </td>
    <!-- DEADFACE CTF 2025 Participant -->
     <td align="center" style="padding: 10px;">
@@ -58,7 +58,7 @@
         DEADFACE CTF 2025 Participant
       </p>
       <p style="font-size: 10px; margin: 0;"><strong>Awarded:</strong> Oct 28, 2025</p>
-      <p style="font-size: 10px; margin: 0;"><strong>Awarded To:</strong> shadowhacker</p>
+      <p style="font-size: 10px; margin: 0;"><strong>Awarded To:</strong> shadowXg</p>
     </td>
   </tr>
 </table>
